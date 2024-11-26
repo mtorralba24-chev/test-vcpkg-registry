@@ -1,6 +1,6 @@
 vcpkg_from_git(
   OUT_SOURCE_PATH SOURCE_PATH
-  URL <https://github.com/mtorralba24-chev/test-library-cpp>
+  URL https://github.com/mtorralba24-chev/test-library-cpp
   REF 252fcbac2c32e130625387a7d0f77cec1ee14ddc
   HEAD_REF main
 )
